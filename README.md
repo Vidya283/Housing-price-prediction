@@ -11,8 +11,11 @@ This project explores the California Housing dataset to identify and understand 
 ## 📁 Project Structure
 
 Housing-price-prediction/
+
 ├── README.md                  # Project documentation
+
 ├── Predictive Modeling.ipynb  # Main Jupyter Notebook
+
 ├── index.html                 # Interactive visualization (map)
 
 ---
